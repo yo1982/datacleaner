@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Cleaner",
+  "description": "Upload a messy CSV file and let AI clean it up for you. The app handles missing values, duplicates, inconsistent formatting, and recalculates totals, providing a ready-to-use dataset for analysis.",
+  "requestFramePermissions": []
+}
